@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://tailwindcss.com"></script>
+    <title>Trading</title>
+  </head>
+  <body class="">
+<div class="max-w-sm rounded overflow-hidden shadow-lg">
+  <img class="w-full" src="https://i.pinimg.com/736x/a0/f3/1f/a0f31f1693b7060c4b4d0d4ff219fb5e.jpg" alt="Volcan imagen">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">La perspectiva del volcan</div>
+    <p class="text-gray-700 text-base">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga eveniet adipisci architecto, magni mollitia rem. Fuga dolores excepturi est atque quos optio quia reiciendis, odit ex laboriosam nostrum ratione minima.
+    </p>
+  </div>
+  <div class="px-6 pt-4 pb-2">
+    <button class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2 hover:bg-gray-300 active:bg-gray-400 ">#8-Bits</button>
+    <button class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2 hover:bg-gray-300 active:bg-gray-400  ">#Paisaje</button>
+    <button class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2 hover:bg-gray-300 active:bg-gray-400 ">#volcan</button>
+  </div>
+</div>
+</html>
